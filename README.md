@@ -48,7 +48,7 @@ Netflix has a huge and diverse content library. The goal of this project is to e
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- Vs Code
 
 ## 📁 Repository Structure
 ```
@@ -63,7 +63,7 @@ synent-task3-netflixeda-bushrashahid/
 ## ▶️ How to Run
 1. Clone this repository
 2. Install required libraries: `pip install pandas numpy matplotlib seaborn`
-3. Open `netflix_eda.ipynb` in Jupyter Notebook / VS Code
+3. Open `netflix_eda.ipynb` in VS Code (with Jupyter extension) or Jupyter Notebook
 4. Run all cells
 
 ## 👤 Author
