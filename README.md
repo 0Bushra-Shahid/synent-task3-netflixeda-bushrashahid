@@ -5,7 +5,7 @@ Netflix has a huge and diverse content library. The goal of this project is to e
 
 ## 📂 Dataset Details
 - **Dataset Name:** Netflix Movies and TV Shows Dataset
-- **Source:** Kaggle
+- **Source:** Kaggle  Link: https://www.kaggle.com/code/lucifierx/netflix
 - **Size:** 8807 rows, 12 columns
 - **Key Columns:** `show_id`, `type`, `title`, `director`, `cast`, `country`, `date_added`, `release_year`, `rating`, `duration`, `listed_in`, `description`
 
